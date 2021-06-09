@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ShivangiBhatnagar-246
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Machine Learning 
+- Silver Badge at HackerRank (Problem Solving)
 - 💞️ I’m looking to collaborate on the projects on Machine Learning
 - 📫 How to reach me..
 
