@@ -1,9 +1,9 @@
 #  👋 Hi, I’m @ShivangiBhatnagar-246
 - 💜Graphic Designer/Developer
-- 🐱‍💻Persuing Master Of Computer Application (MCA)
+- 🐱‍💻Persuing Masters Of Computer Application (MCA)
 - 👀 I’m interested in Full Stack Development
 - 🤞Silver Badge at HackerRank (Problem Solving)
-- 💞️ Open Source Contribution Projects
+- 💞️ I Sometimes do Open Source Contribution Projects
 - 📫 How to reach me - bhatnagarshivangi246@gmail.com
 # My Projects are mainly on-
  * Django/Python
