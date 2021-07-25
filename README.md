@@ -11,7 +11,7 @@
  * HTML/CSS , JavaScript
  # My Happy to Go place is: 
  * Graphic Designing
- * Vector Art/Illustration
+ * Vector Art/Illustrations
 <!---
 ShivangiBhatnagar-246/ShivangiBhatnagar-246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
