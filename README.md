@@ -1,7 +1,7 @@
 #  👋 Hi, I’m Shivangi Bhatnagar
 - 💜Graphic Designer/Developer
 - 🐱‍💻Persuing Masters Of Computer Application'22 (MCA)
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m currently learning NLP and OpenCV
 - 🤞Silver Badge at HackerRank (Problem Solving)
 - 💞️ I Sometimes do Open Source Contribution Projects
 - 📫 How to reach me - bhatnagarshivangi246@gmail.com
